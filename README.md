@@ -2,7 +2,7 @@
 
 #### Example:
 ```
-$ python ./parser.py
+$ sudo python ./parser.py
   [!] Enter website url 
 $ http://news.ycombinator.com a href
 ```
